@@ -12,5 +12,10 @@ Basically, the user insert any numbers it wants under the rule that it's between
 * The higher number
 * The totam sum of all numbers
 * The aritmetic media
+
+The page is illustrated on the following image
+
+![img-analisador-num](https://user-images.githubusercontent.com/107283450/214909865-a5091d5a-60c9-4a5f-ab9c-a601542f21c7.png)
+
 ---
 
